@@ -1,6 +1,8 @@
 # PageRank_PowerMethod
 Implementation of the PageRank algorithm using Power Method
+
 Institution: Virovitica University of Applied Sciences, Croatia
+
 Authors: Marko Hajba, Luka Majcenić, Nikola Stjepanović
 
 This repository contains code and data used to test PageRank algorithm using Power Method.
